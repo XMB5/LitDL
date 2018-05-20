@@ -8,7 +8,7 @@ List the URLs of resources in a webpage filtered by mime type
 4. Download the CA certificate at [http://neverssl.com]()
 5. Install the CA certificate in your browser
 6. Go to a website with the resources you want
-7. Check the terminal for urls
+7. Check the terminal for URLs
 
 ## Usage
 ```
